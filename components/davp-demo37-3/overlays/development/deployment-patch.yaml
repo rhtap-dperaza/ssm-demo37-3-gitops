@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscdavp/ssm-demo37-3:4e74f985604fd7dfcb5f12e7e0354a2c6c4a1174
+        - image: quay.io/tsscdavp/ssm-demo37-3:534cd13ae352b2d582d56a7f39e92b79ff17ffd5
           name: container-image
