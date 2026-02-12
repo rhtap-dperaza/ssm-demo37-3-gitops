@@ -16,6 +16,7 @@ metadata:
     pipelinesascode.tekton.dev/task-7: "https://raw.githubusercontent.com/dperaza4dustbit/tssc-dev-multi-ci/migrate_gitops_pl/samples/tekton/pac/tasks/verify-gitops-conforma.yaml"
     pipelinesascode.tekton.dev/task-8: "https://raw.githubusercontent.com/dperaza4dustbit/tssc-dev-multi-ci/migrate_gitops_pl/samples/tekton/pac/tasks/fetch-gitops-sbom-images.yaml"
     pipelinesascode.tekton.dev/task-9: "https://raw.githubusercontent.com/dperaza4dustbit/tssc-dev-multi-ci/migrate_gitops_pl/samples/tekton/pac/tasks/download-gitops-sbom.yaml"
+    pipelinesascode.tekton.dev/task-9: "https://raw.githubusercontent.com/dperaza4dustbit/tssc-dev-multi-ci/migrate_gitops_pl/samples/tekton/pac/tasks/upload-gitops-sbom.yaml"
   labels:
     argocd/app-name: davp-demo37-3
     janus-idp.io/tekton: davp-demo37-3
